@@ -1,0 +1,16 @@
+D:\Internship\ConsoleAppTextFileReader\Newfolder\C#ConsoleApp_FileReader\bin\Debug\net5.0\C#ConsoleApp_FileReader.exe
+D:\Internship\ConsoleAppTextFileReader\Newfolder\C#ConsoleApp_FileReader\bin\Debug\net5.0\C#ConsoleApp_FileReader.deps.json
+D:\Internship\ConsoleAppTextFileReader\Newfolder\C#ConsoleApp_FileReader\bin\Debug\net5.0\C#ConsoleApp_FileReader.runtimeconfig.json
+D:\Internship\ConsoleAppTextFileReader\Newfolder\C#ConsoleApp_FileReader\bin\Debug\net5.0\C#ConsoleApp_FileReader.runtimeconfig.dev.json
+D:\Internship\ConsoleAppTextFileReader\Newfolder\C#ConsoleApp_FileReader\bin\Debug\net5.0\C#ConsoleApp_FileReader.dll
+D:\Internship\ConsoleAppTextFileReader\Newfolder\C#ConsoleApp_FileReader\bin\Debug\net5.0\ref\C#ConsoleApp_FileReader.dll
+D:\Internship\ConsoleAppTextFileReader\Newfolder\C#ConsoleApp_FileReader\bin\Debug\net5.0\C#ConsoleApp_FileReader.pdb
+D:\Internship\ConsoleAppTextFileReader\Newfolder\C#ConsoleApp_FileReader\obj\Debug\net5.0\C#ConsoleApp_FileReader.csproj.AssemblyReference.cache
+D:\Internship\ConsoleAppTextFileReader\Newfolder\C#ConsoleApp_FileReader\obj\Debug\net5.0\C#ConsoleApp_FileReader.GeneratedMSBuildEditorConfig.editorconfig
+D:\Internship\ConsoleAppTextFileReader\Newfolder\C#ConsoleApp_FileReader\obj\Debug\net5.0\C#ConsoleApp_FileReader.AssemblyInfoInputs.cache
+D:\Internship\ConsoleAppTextFileReader\Newfolder\C#ConsoleApp_FileReader\obj\Debug\net5.0\C#ConsoleApp_FileReader.AssemblyInfo.cs
+D:\Internship\ConsoleAppTextFileReader\Newfolder\C#ConsoleApp_FileReader\obj\Debug\net5.0\C#ConsoleApp_FileReader.csproj.CoreCompileInputs.cache
+D:\Internship\ConsoleAppTextFileReader\Newfolder\C#ConsoleApp_FileReader\obj\Debug\net5.0\C#ConsoleApp_FileReader.dll
+D:\Internship\ConsoleAppTextFileReader\Newfolder\C#ConsoleApp_FileReader\obj\Debug\net5.0\ref\C#ConsoleApp_FileReader.dll
+D:\Internship\ConsoleAppTextFileReader\Newfolder\C#ConsoleApp_FileReader\obj\Debug\net5.0\C#ConsoleApp_FileReader.pdb
+D:\Internship\ConsoleAppTextFileReader\Newfolder\C#ConsoleApp_FileReader\obj\Debug\net5.0\C#ConsoleApp_FileReader.genruntimeconfig.cache
